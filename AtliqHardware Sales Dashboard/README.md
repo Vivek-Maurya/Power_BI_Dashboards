@@ -1,4 +1,4 @@
-# Atliq_Hardware Sales Dashboard
+# [Atliq_Hardware Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWM5MzdmZWMtMmQwNC00YjU4LWIwYWEtYWNjYTBmMTcxMGIzIiwidCI6Ijg5M2VlMDNiLTdjYzAtNDhkZi04NjM2LWFiNzE1MzU5MmFlYiJ9)(👈 live Dashboard)
 
 ##  The "db_dumb.sql" file consists of 5 tables
 ### a) customers : stores the information of customers
