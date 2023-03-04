@@ -1,6 +1,6 @@
 # Atliq_Hardware Sales Dashboard
 
-### The "db_dumb.sql" file consists of 5 tables
+##  The "db_dumb.sql" file consists of 5 tables
 ### a) customers : stores the information of customers
 ### b) dates : stores the dates
 ### c) markets : stores the information of various offices
