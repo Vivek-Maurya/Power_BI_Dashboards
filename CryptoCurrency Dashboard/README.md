@@ -1,6 +1,6 @@
-# [CryptoCurrency Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjVmYWE3OTMtMzYyYi00OWQ5LWE5ODctMDEwNTVmNTNmNmJiIiwidCI6Ijg5M2VlMDNiLTdjYzAtNDhkZi04NjM2LWFiNzE1MzU5MmFlYiJ9&pageName=ReportSection)(👈 Live Dashboard)
+## [CryptoCurrency Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjVmYWE3OTMtMzYyYi00OWQ5LWE5ODctMDEwNTVmNTNmNmJiIiwidCI6Ijg5M2VlMDNiLTdjYzAtNDhkZi04NjM2LWFiNzE1MzU5MmFlYiJ9&pageName=ReportSection)(👈 Live Dashboard)
 
-## As a cryptocurrency enthusiast, I created a CryptoCurrency Dashboard by utilizing the dataset from Kaggle.com. Through this project, I was able to gain valuable insights into the performance and trends of various digital coins.
+ As a cryptocurrency enthusiast, I created a CryptoCurrency Dashboard by utilizing the dataset from Kaggle.com. Through this project, I was able to gain valuable insights into the performance and trends of various digital coins.
 
 Using Power BI's powerful data visualization tools, I analyzed the dataset and created an interactive and easy-to-use dashboard that provides key information on different cryptocurrencies. This dashboard allowed me to identify trends and patterns in the performance of different coins, as well as their market cap and volume.
 
